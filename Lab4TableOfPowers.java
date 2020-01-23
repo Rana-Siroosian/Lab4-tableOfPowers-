@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class TableOfPowers {
+public class Lab4TableOfPowers {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner scnr = new Scanner (System.in);
